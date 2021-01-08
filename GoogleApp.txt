@@ -1,1 +1,2 @@
 android.clients.google.com
+*.googleapis.com
